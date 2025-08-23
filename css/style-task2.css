@@ -1,0 +1,10 @@
+.gallery {
+  align-self: center;
+  max-width: 1440px;
+  display: flex;
+  row-gap: 48px;
+  column-gap: 24px;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 100px 156px;
+}
