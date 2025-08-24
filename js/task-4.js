@@ -12,7 +12,7 @@ function hendlerSubmit(event) {
 
   if (email === "" || pass === "") {
     alert("All form fields must be filled in");
-    event.target.reset();
+
     return;
   }
 
